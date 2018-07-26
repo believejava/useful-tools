@@ -39,7 +39,7 @@ public class CountWords {
 				}
 				
 			}
-			System.out.println("--------------- Counter Words ---------------");
+			System.out.println("--------------- Count Words ---------------");
 				
 		   class ValueComparator implements Comparator<Map.Entry<String,Integer>>  
 		    {  
